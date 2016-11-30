@@ -1,12 +1,12 @@
 
 
-#include <iostream>
+#/*include <iostream>
 #include<cstdio>
 using namespace std;
 
 //210000000
 
-long long pizzaCutting(int N){
+/long long pizzaCutting(int N){
     if(N==0)
         return 1;
     else if(N==1)
@@ -25,9 +25,8 @@ int main()
         printf("%lld\n", pizzaCutting(N));
     }
 }
+*/
 
-
-/*
 #include <cstdio>
 using namespace std;
 
@@ -40,4 +39,3 @@ int main() {
 
 	return 0;
 }
-*/
