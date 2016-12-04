@@ -28,3 +28,14 @@ int main(){
             cout<<"Not jolly"<<endl;
     }
 }
+
+/*
+2 1999 1998
+jolly
+4 1 4 3 5
+jolly
+4 1 2 5 7
+jolly
+3 4 1 3
+not jolly
+*/
